@@ -20,9 +20,9 @@ const generateCategoryTranslations = (lang: 'en' | 'el' | 'it') => {
 
 export const translations: Record<string, Translations> = {
     en: {
-        restaurantName: 'Bella Tavola',
+        restaurantName: 'Ritrovo',
         restaurantTagline: 'Browse our menu and prepare your order',
-        restaurantType: 'Cafe Bar',
+        restaurantType: 'Cafe Gastrotheque',
         menu: 'Menu',
         myOrder: 'My Order',
         items: 'items',
@@ -47,9 +47,9 @@ export const translations: Record<string, Translations> = {
         menuItems: generateMenuItemsTranslations('en'),
     },
     el: {
-        restaurantName: 'Bella Tavola',
+        restaurantName: 'Ritrovo',
         restaurantTagline: 'Περιηγηθείτε στο μενού και ετοιμάστε την παραγγελία σας',
-        restaurantType: 'Καφέ Μπαρ',
+        restaurantType: 'Γαστρονομικό Καφέ',
         menu: 'Μενού',
         myOrder: 'Η Παραγγελία μου',
         items: 'είδη',
@@ -74,9 +74,9 @@ export const translations: Record<string, Translations> = {
         menuItems: generateMenuItemsTranslations('el'),
     },
     it: {
-        restaurantName: 'Bella Tavola',
+        restaurantName: 'Ritrovo',
         restaurantTagline: 'Sfoglia il nostro menu e prepara il tuo ordine',
-        restaurantType: 'Caffè Bar',
+        restaurantType: 'Caffè Gastroteca',
         menu: 'Menu',
         myOrder: 'Il Mio Ordine',
         items: 'articoli',

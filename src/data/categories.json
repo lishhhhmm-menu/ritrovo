@@ -1,61 +1,61 @@
 [
     {
-        "id": "appetizers",
-        "icon": "🥗",
+        "id": "breakfast",
+        "icon": "🥐",
         "translations": {
             "en": {
-                "name": "Appetizers"
+                "name": "Breakfast & Brunch"
             },
             "el": {
-                "name": "Ορεκτικά"
+                "name": "Πρωινό & Δεκατιανό"
             },
             "it": {
-                "name": "Antipasti"
+                "name": "Colazione & Spuntini"
             }
         }
     },
     {
         "id": "mains",
-        "icon": "🍽️",
+        "icon": "🥩",
         "translations": {
             "en": {
-                "name": "Main Courses"
+                "name": "Main Courses & Meats"
             },
             "el": {
-                "name": "Κύρια Πιάτα"
+                "name": "Κυρίως Πιάτα & Κρεατικά"
             },
             "it": {
-                "name": "Piatti Principali"
+                "name": "Piatti Principali & Carni"
             }
         }
     },
     {
-        "id": "pasta",
-        "icon": "🍝",
+        "id": "pizza-comfort",
+        "icon": "🍕",
         "translations": {
             "en": {
-                "name": "Pasta"
+                "name": "Pizza & Comfort Food"
             },
             "el": {
-                "name": "Ζυμαρικά"
+                "name": "Πίτσα & Σνακ"
             },
             "it": {
-                "name": "Pasta"
+                "name": "Pizza & Sfiziosità"
             }
         }
     },
     {
-        "id": "seafood",
-        "icon": "🦞",
+        "id": "salads-sides",
+        "icon": "🥗",
         "translations": {
             "en": {
-                "name": "Seafood"
+                "name": "Salads & Sides"
             },
             "el": {
-                "name": "Θαλασσινά"
+                "name": "Σαλάτες & Συνοδευτικά"
             },
             "it": {
-                "name": "Pesce"
+                "name": "Insalate & Contorni"
             }
         }
     },
@@ -71,21 +71,6 @@
             },
             "it": {
                 "name": "Dolci"
-            }
-        }
-    },
-    {
-        "id": "beverages",
-        "icon": "🍹",
-        "translations": {
-            "en": {
-                "name": "Beverages"
-            },
-            "el": {
-                "name": "Ποτά"
-            },
-            "it": {
-                "name": "Bevande"
             }
         }
     }
